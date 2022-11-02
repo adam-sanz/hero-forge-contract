@@ -1,0 +1,22 @@
+Contratos deployados:
+=====================
+
+1.deploy: 0xA948AF1E204348cC6c1506469eFd19d6F6e3614e 
+- Personajes, Jefe, Atacar al jefe.
+
+2.deploy: 0xD0Fe185a5F16c717595170fa84Cf4a43a8bD8EFc
+- Se agregaron funciones auxiliares y eventos.
+
+3.deploy: 0x6e4fCCCB9bC1c7eC0f9F81Da42e3f2DBEC0C7f2d
+- Varios fixes
+
+4.deploy: 0x34d6c4A35cf5f45C0B37FC6AA3E5bF945E5b2AEd
+- Se separo la funcion AttackBoss en AttackBoss y AttackCharacter.
+- Se creo un evento para cada caso.
+- Se actualizaron las estadisticas de cada character.
+
+5.deploy: 0x30c88A61C096fd55f8C3d4b9597dD63a2774f96B
+- fix mintCharacterNFT shield
+
+6.deploy: 0x6B741cf326784C304fB47Fef4248e3B7E9d161D2
+- restart contract to prod
